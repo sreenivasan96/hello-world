@@ -1,2 +1,2 @@
-# hello-world
-Python for me and beginners 
+# Python for beginners like me
+print("Hello World")
